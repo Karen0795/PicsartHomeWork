@@ -3,6 +3,7 @@
 let num1 = parseFloat(prompt("Enter the first number:"));
 let num2 = parseFloat(prompt("Enter the second number:"));
 let operator = prompt("Enter the operator (+, -, *, /):");
+console.log(operator);
 
 let result;
 
